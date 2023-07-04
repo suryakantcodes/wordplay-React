@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordplay-React/static/css/main.073c9b0a.css",
+    "main.js": "/wordplay-React/static/js/main.845730f7.js",
+    "static/js/787.aca572a9.chunk.js": "/wordplay-React/static/js/787.aca572a9.chunk.js",
+    "index.html": "/wordplay-React/index.html",
+    "main.073c9b0a.css.map": "/wordplay-React/static/css/main.073c9b0a.css.map",
+    "main.845730f7.js.map": "/wordplay-React/static/js/main.845730f7.js.map",
+    "787.aca572a9.chunk.js.map": "/wordplay-React/static/js/787.aca572a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.845730f7.js"
+  ]
+}
